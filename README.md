@@ -79,3 +79,7 @@ You will receive a confirmation email - click the link in that email to finish t
     console.log(result);
   });
 </pre>
+
+## See Also
+
+ * [node-ses](https://www.npmjs.com/package/node-ses) supports the SendEmail and SendRawEmail methods. Also includes multi-region support, error handling and debugging support. 
